@@ -2,4 +2,4 @@
 
 https://tomboyer.github.io/TomBoyer_SnakeJS/
 
-credit : https://www.youtube.com/channel/UCgEaMz5ZaPezGB7OF3HKfzA/videos
+credit : https://www.youtube.com/watch?v=EI7XuCxdn6E&ab_channel=RomainKania
