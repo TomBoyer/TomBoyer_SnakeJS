@@ -1,0 +1,19 @@
+
+body {
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: rgba(37, 21, 78, 0.507);
+}
+
+#game {
+    /* width: 600px;
+    height: 600px; */
+
+    background: rgb(37, 21, 78);
+}
